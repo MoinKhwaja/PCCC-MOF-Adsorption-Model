@@ -1,0 +1,1 @@
+/Users/moinkhwaja/Documents/GitHub/PCCC-MOF-Adsorption-Model/geo_props/PD.txt    9.58197 8.83539  9.58197
